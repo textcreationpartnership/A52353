@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Ninth collection of papers relating to the present juncture of affairs in England ...</title>
+         </titleStmt>
+         <extent>Approx. 82KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52353</idno><idno type="EEBO-CITATION">8164340</idno>
+  <idno type="VID">41004</idno>
+  <idno type="EEBO-PROQUEST">2264209163</idno>
+  
+            <idno type="STC">Wing N1164</idno>
+            <idno type="STC">ESTC R24409</idno>
+            <idno type="OCLC">08164340</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1235:19 or 1447:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Ninth collection of papers relating to the present juncture of affairs in England ...</title>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ninth in a series of 12 collections issued in 1688-1689 under title: A collection of papers relating to the present juncture of affairs in England; and reissued in 1689 under title: A compleat collection of papers, in twelve parts, relating to the great revolutions in England and Scotland.</note>
+                  <note>Advertisement: p. 34.</note>
+                  <note>This item can be found at reels 1235:19 and 1447:9.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>(from t.p.) I. A dialogue beween two friends, wherein the Church of England is vindicated in joyning with the Prince of Orange in his descent into England -- II. His late Majesty's letter to the Lords and others of his Privy Council -- III. Some remarks on the late king's pretended letter to the Lords and others of his Privy Council -- IV. Reasons for crowning the Prince and Princess of Orange King and Queen jointly and for placing the executive power in the prince alone -- V. A lord's speech without doors to the Lords upon the present condition of the government -- VI. Reflections on a paper, called, A lord's speech without doors -- VII. The bishops reasons to Queen Elizabeth for taking off the Queen of Scots, offer'd to the consideration of the present sect of Grumbletonians.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41004:1"/>
+            <p>A NINTH <hi>Collection of Papers</hi> Relating to the Present Juncture of Affairs in <hi>England. VIZ.</hi>
+               <list>
+                  <item>I. A Dialogue between two Friends, wherein the Church of <hi>England</hi> is vindicated in joyning with the Prince of <hi>Orange</hi> in his Descent into <hi>England.</hi>
+                  </item>
+                  <item>II. His late Majesty's Letter to the Lords and others of his Privy Council.</item>
+                  <item>III. Some Remarks on the late King's pretended Let<g ref="char:EOLhyphen"/>ter to the Lords, and others of his Privy Council.</item>
+                  <item>IV. Reasons for Crowning the Prince and Princess of <hi>Orange</hi> King and Queen jointly; and for placing the Executive Power in the Prince alone.</item>
+                  <item>V. A Lord's Speech without Doors to the Lords, upon the present Condition of the Government.</item>
+                  <item>VI. Reflections on a Paper, called, A Lord's Speech without Doors.</item>
+                  <item>VII. The Bishops Reasons to Queen <hi>Elizabeth</hi> for ta<g ref="char:EOLhyphen"/>king off the Queen of <hi>Scots:</hi> offer'd to the Conside<g ref="char:EOLhyphen"/>ration of the present Sect of <hi>Grumbletonians.</hi>
+                  </item>
+                  <item>With an Advertisement of the Learning and Rheto<g ref="char:EOLhyphen"/>rick of the late Lord Chancellor <hi>Jefferies.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>London</hi> printed, and are to be sold by <hi>Richard Janeway</hi> in Queen's-head-Court in <hi>Pater-noster-Row,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:41004:2"/>
+            <pb n="1" facs="tcp:41004:2"/>
+            <head>A DIALOGUE between two Friends, wherein the Church of <hi>England</hi> is Vindicated in joining with the Prince of <hi>Orange</hi> in his Descent into <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </head>
+            <head type="sub">A <hi>Dialogue</hi> between a <hi>Churchman</hi> and a <hi>Dissenter.</hi>
+            </head>
+            <sp>
+               <speaker>Church-man.</speaker>
+               <p>OH! Neighbour, I am heartily glad to see you; I have long desired to have an hour's Discourse with you, that I might know your Sentiments of the <hi>Present Conjuncture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dissenter.</speaker>
+               <p>Sir, I thank you for my kind Reception, and shall endeavour to make my Visit as agreeable as I can.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Well, Neighbour, what do you think of the Times now?</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Why, to tell you the truth, I cannot but be pleas'd with the Humour of a Gentleman, who died lately, and in<g ref="char:EOLhyphen"/>joined his Relations to bury him with his Face downward, say<g ref="char:EOLhyphen"/>ing, That in a short time the World would be turned upside<g ref="char:EOLhyphen"/>down, and then he should be the only Person who lay decently in his Grave.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Why, I must confess there has been a considerable Re<g ref="char:EOLhyphen"/>volution, but I hope we Churchmen have still kept up our Re<g ref="char:EOLhyphen"/>putation.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Ay to be sure; but I hear Hue and Cry has lately been sent after your Doctrines of <hi>Passive Obedience, Non-Resistance, Jure Divino-Monarchy,</hi> &amp;c. And they say some Roguish Fel<g ref="char:EOLhyphen"/>low
+<pb n="2" facs="tcp:41004:3"/>has pack'd them up, and run with them back as far as Forty one.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Indeed our <hi>Passive Obedience</hi> and your <hi>Addresses</hi> have been the two great Supporters of the King's Hopes; but he has now found, to his Sorrow, that we no more designed to obey Arbitrary Commands, than you Address'd for Establishment of Popery: But here's the Mischief of it, you Dissenters will still be condemning us before you have heard us either Explain our Doctrines, or Distinguish the Times.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Come, come, don't tell me of Explaining or Distin<g ref="char:EOLhyphen"/>guishing, Honesty is Uniform, and needs no such Shifts: Why did you not Explain and Distinguish while the Court smil'd, and you had the Whip in your hands? As for our Addressing, 'tis plain to all the World we only designed to return the King Thanks for that Common <hi>Liberty</hi> and Ease we had from your Severities.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>'Pray' Neighbour, be not so warm; you know the Complement was attended with the Promise of Lives and For<g ref="char:EOLhyphen"/>tunes, but not to be too nice upon your Good-Breeding in the Case; lend me but a little Patience and I'll demonstrate to you that the Proceedings both of our Clergy and Laity in this late Revolution have been consonant to their former Doctrines, Reason it self, and the Constitution of this Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Well, I commend you at least for fair Promises, I wish you perform them better than a Great Man before you has performed his.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>That I shall leave to the Judgment of the Impartial: But first of all I must crave leave to tell you, That I shall not here undertake to defend the extravagant Notions of every Upstart, who, through Prospect of Advantage, might flatter the Court with his own <hi>Chimaera</hi>'s: But, by the aforesaid Do<g ref="char:EOLhyphen"/>ctrines, I mean those generally preached up by the Learned and unbiass'd Clergy, and approved of by all the thinking Men of our Church.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>I must confess I cannot expect you should defend the Excesses of every Novice; but I can by no means reconcile these late Proceedings to those Doctrines which were Asserted by the most Learned of your Clergy.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Which therefore of our Doctrines would you insinu<g ref="char:EOLhyphen"/>ate to me?</p>
+            </sp>
+            <pb n="3" facs="tcp:41004:3"/>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Why, in short, to see a Company of People up in Arms, and joining with an Invader, who had so Zealously As<g ref="char:EOLhyphen"/>serted <hi>Passive Obedience, Non-Resistance,</hi> &amp;c. and had taken se<g ref="char:EOLhyphen"/>veral Oaths, disabling them upon any Pretence whatsoever to take up Arms without the King's Order, <hi>&amp;c.</hi> This I say is a Riddle to me.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Your Objection I confess is weighty, though obvious and the common talk; but being prepared by many Premeditations on this Subject, if you please to lend me a little Attention, I shall endeavour to satisfy your Difficulties.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>'Tis what my Charity much desires.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>First, therefore, to deal ingenuously with you, I confess, at the beginning of this Revolution I was under a very great Surprize: I, who have been in Arms for His Majesty, a warm stickler for the Church of <hi>England,</hi> puffed up with all the Bra<g ref="char:EOLhyphen"/>vado's and Excesses of an <hi>Oxford</hi> Loyalty, must needs be Alar<g ref="char:EOLhyphen"/>med to hear our Nobility and Gentry beating up for the Prince of <hi>Orange,</hi> even in the Bowels of our Country. But when I came more seriously to reflect upon the Foundations of our Go<g ref="char:EOLhyphen"/>vernment, as well as those antecedent Obligations which God Almighty has reserved as his own inviolable Prerogative, I be<g ref="char:EOLhyphen"/>gan to regulate my Zeal by calmer measures. And making a more impartial and strict Inquiry into the Opinions of Learned Men concerning the Regal Power, I found this most generally agreed upon; <hi>viz.</hi> That the Obedience and Disobedience of Subjects must be measured by the peculiar Constitutions of eve<g ref="char:EOLhyphen"/>ry Kingdom, without respect either to the Jewish Polity, where things were determined by God Almighty's special Com<g ref="char:EOLhyphen"/>mand, or the Behaviour of the Primitive Christians, who had few or no Legal Rights to Assert.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Ay, but you Churchmen flattered the Court so long, till our Constitutions were all swallowed up in the Abyss of Prerogative.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>I must confess while Kings are a Protection to Liberty, Property and Religion, the World is naturally prone to flatter them; neither would it be good Breeding to make too nice Inqui<g ref="char:EOLhyphen"/>ries into the Limits of a Prince while he does not exceed them; but when Distress comes impetuously upon a Nation, when Life and All that is Sacred to us lies at Stake, then the Inquiry is not only just; but necessary.</p>
+            </sp>
+            <pb n="4" facs="tcp:41004:4"/>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>What Conditions therefore will you Churchmen at length confine your Prince too?</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Why, I shall present you with a short, but impartial view of the Constitutions of this Kingdom, as I find them most faithfully and ingenuously represented by the Royal Martyr in his Answer to the Nineteen Propositions, in these Words, <hi>viz.</hi>
+                  <q rend="margQuotes">There being Three kinds of Government among Men, <hi>Abso<g ref="char:EOLhyphen"/>lute Monarchy, Aristocracy</hi> and <hi>Demooracy,</hi> and all these having their particular Conveniences and Inconveniences, the Expe<g ref="char:EOLhyphen"/>rience and Wisdom of our Ancestors hath so moulded this out of a <hi>mixture</hi> of these, as to give to this Kingdom the Con<g ref="char:EOLhyphen"/>veniences of all Three, without the Inconveniences of any one, as long as the Balance hangs even between the Three Estates, and they run jointly on in their proper Chanel, <hi>&amp;c.</hi> In this Kingdom the Laws are jointly made by a King, House of Peers, and House of Commons, chosen by the People, all having free Votes, and particular Priviledges, <hi>&amp;c.</hi> And in this Kind of <hi>Regulated Monarchy,</hi> that the Prince may not make not use of his Power to the Hurt of those for whose Good he hath it, and make use of the Name of Publick Ne<g ref="char:EOLhyphen"/>cessity for the Gain of his private Favorites and Followers, to the detriment of his People; the House of Commons (an excellent Conserver of Liberty) is solely entrusted with the Levying of Monys, and the Impeaching of those, who for their own Ends, though countenanced by any surreptitiously gotten Command of the King, have violated that Law which he is bound to protect, <hi>&amp;c.</hi> Since therefore the <hi>Power Legally</hi> placed in both Houses, is more than sufficient to <hi>Prevent</hi> and <hi>Restrain</hi> the Power of <hi>Tyranny, &amp;c.</hi> Our Answer is, <hi>Nolumus Leges Angliae mutari.</hi>
+                  </q> So far this Royal Author. And indeed what could a generous Prince acknowledg, or a Priviledg-as<g ref="char:EOLhyphen"/>serting Subject desire more? Therefore, upon the whole, it appears by the Confession of the best of Men, as well as the wisest of Princes, that we are under a Government so well ap<g ref="char:EOLhyphen"/>pointed for Society and the Exigencies of Humane Kind, that nothing but Folly can think of Establishing a better, and no<g ref="char:EOLhyphen"/>thing but a Jesuit disturb it: The Scriptures themselves seem to have meant it when they tell us that <hi>Caesar's</hi> Prerogative must never come in Competition with that of God Almighty, and that Governors shall be a Terror to evil Works. Here King
+<pb n="5" facs="tcp:41004:4"/>and People have each their Territories, and all the Provision imaginable made against those Distractions which either Interest or Passion should attempt. From all which what can be more naturally inferred, but that we in this Kingdom are by no means obliged to resign up our selves to Violence and Oppres<g ref="char:EOLhyphen"/>sion, but that Passive Obedience has its Limits, and the Oath of Allegiance its Restrictions: A regulated and conditionated Monarch can expect no Obedience from me but what is Con<g ref="char:EOLhyphen"/>ditional too; and what an Absurdity does it seem, that by a Legal Oath I should swear an absolute Obedience to that Au<g ref="char:EOLhyphen"/>thority which is not Absolute? Besides, those Subsidies which were granted by the Clergy in several of Queen <hi>Elizabeth</hi>'s. Par<g ref="char:EOLhyphen"/>liaments for the Relief of the <hi>French, Dutch</hi> and <hi>Scotch</hi> Prote<g ref="char:EOLhyphen"/>stants, against their Oppressors, plainly shew that it was all along the Opinion of the Church to Resist in case Rights and Religion were Invaded: Neither am I perswaded that the learned and unbyass'd Clergy of our present Church ever meant any other Obedience than an active Conformity to the Intent of the Law, or a Passive Submission to the Penalties of it. Therefore though upon the Foundations of our Government, an impatient Spirit might with a great shew of Reason establish a very extensive Latitude, in asserting the Subjects Right; yet in Favour of Monarchy, which I Reverence, and with Respect to the <hi>Present Conjuncture,</hi> I shall only now trouble you with these four Propositions, supposing a mixt Government; 1. That Suspicions and Jealousies of a Prince's sinister Designs are no sufficient Grounds for Subjects violently to assert their Rights, but in this Case the Event of things must be left to Providence. 2. That though one Man, or a greater number of Men receive manifest Injuries by the Abuses of Government, yet while they are but an inconsiderable part of the Communi<g ref="char:EOLhyphen"/>ty, they are in Duty bound rather to submit to Oppression, than interrupt the common Peace: But, 3. When Dangers be<g ref="char:EOLhyphen"/>come demonstrable, when Religion it self, and the very Foun<g ref="char:EOLhyphen"/>dations of Government are so undermined by the Insinuations of an inconsiderable party, who have obtained the Ear of their Prince, that its unavoidable Ruine must necessarily follow. In this Case I cannot see any Reason why Right may not be asser<g ref="char:EOLhyphen"/>ted. But, 4. When a Foreign Prince with a considerable Ar<g ref="char:EOLhyphen"/>my Invades a Nation, upon pretence of putting a stop to such
+<pb n="6" facs="tcp:41004:5"/>violent Proceedings, besides, perhaps some just Causes of a War; I say in this Case, That the whole Nation may and ought to rise and put themselves in such a Posture, that they may be able to return him Thanks acording to the Merits of his Favours, without being jealous of his Greatness. And indeed our present Case is so circumstantiated, that I Question whether it may be paralle'd in History; and let any Man tell me where the Subjects of a <hi>Limited Monarchy,</hi> tired out with the Abuses of Government, did by sighting for their King en<g ref="char:EOLhyphen"/>courage Oppression by the Blood of Thousands, when they might effect a Treaty in all probability with little or no Blood<g ref="char:EOLhyphen"/>shed, by joining with a Prince of their own Interest, who, per<g ref="char:EOLhyphen"/>haps, can shew more just Causes of a War than one?</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>I must confess what you have said seems to carry a great deal of Reason and Moderation with it, which I must allow.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Let but a moderate Papist lend me one grain of his own Principles, and I am confident he cannot but be of my Mind; for may we but modestly measure the King's future Proceedings (had we trusted him with Victory) by those we had already seen, how dismal would the Prospect be? Should we but recollect how barefacedly he has been striking at the Northern Heresy ever since the <hi>Oxford</hi> Parliament; what Mercy could we ex<g ref="char:EOLhyphen"/>pect? How far some of the Protestant Nobility were engaged in an Association to assert their Rights, I shall not here pretend to determine, but this we may modestly presume, That all their Crimes were seen through a Popish Magnifying-Glass, and no Artifice neglected to ruine them. An ingenious Gentleman was deservedly applauded for his Rhetorical Co<g ref="char:EOLhyphen"/>lours in the Narrative of that Conspiracy, and I was well pleased with a Gentleman's Fancy, who imagined another In<g ref="char:EOLhyphen"/>terest would now engage him to atone for his unhappy Conti<g ref="char:EOLhyphen"/>nuance in the High-Commission Court, by Writing what he observed of the Popish Designs, during his stay there. Ano<g ref="char:EOLhyphen"/>ther eminent Instance of those Violences which were Encourag<g ref="char:EOLhyphen"/>ed above, was the Presenting Two and fifty Persons in the County of <hi>Northampton</hi> as disaffected to the Government, and branding them with all the Scandals imaginable; many of which I personally know to be as Faithful to the Crown, and in all Respects as honest and worthy Gentlemen as any in the
+<pb n="7" facs="tcp:41004:5"/>Kingdom. But to come nearer the <hi>Present Conjuncture,</hi> how were our Law, Properties, and all, prostituted by a few Dis<g ref="char:EOLhyphen"/>pensing Gentlemen, some of them perfectly incapable of any Place of Trust, and all of suspected Integrity. How surpri<g ref="char:EOLhyphen"/>zing was it to see persons of the most contemptible Character placed among our Bishops; and all the sacred Authority lodged in a Court which was erected against an express Act of Parlia<g ref="char:EOLhyphen"/>ment? What a Riddle was it that our learned Prelates (hither<g ref="char:EOLhyphen"/>to the great Supporters of the Crown) should be Imprisoned for acting according to their Consciences, in refusing to Read that which pretended to establish the greatest <hi>Liberty of Con<g ref="char:EOLhyphen"/>science?</hi> Could any one that saw Six hundred Scholars up in Arms, and chearfully demonstrating their Loyalty in the Western Rebellion, ever think to see the Fellows of <hi>Magdalen</hi> Colledg ingratefully turned out like Dogs, and perhaps one of the finest Foundations in <hi>Europe,</hi> become a Kennel for Miscre<g ref="char:EOLhyphen"/>ants, who were more unworthy to be Members of an University, upon the account of their Insufficiency, than they were inca<g ref="char:EOLhyphen"/>pable of it by Law? It seem'd almost a Jest to me to see in <hi>Christ-Church</hi> persons of that eminent Character and Learning, superintended by a Wretch not fit for common Converse. In which Society there is a Person in whom the Gentleman and the Scholar do very eminently meet, and who for his happy Conduct and great Care to maintain the Repute of that Colledg during these Violences, has certainly now all the Title to the Deanry that either merit, or the common Rules of Gratitude can afford him. But to proceed, I say to see how all Freedom of Elections to Parliament was in a manner taken away; how the Poll at <hi>Northampton</hi> was like to be Regulated by Powder and Bullet, and the whole Government managed by Father <hi>Petre, Pen, Lob,</hi> and a few more such mercenary Wretches; and all this to introduce a Religion contrary to Scripture, and destructive of all Society, for which we expected great things would have been said while the Asserters of it had Com<g ref="char:EOLhyphen"/>mand of the Press, and the Countenance of a Prince, yet no<g ref="char:EOLhyphen"/>thing was produced but Fallacy and Nonsense: These, I say, (not to mention the subverting Succession, a League with <hi>France,</hi> and those horrid Murthers laid to the Court) are Pro<g ref="char:EOLhyphen"/>vocations too great even for Primitive Obedience: But seeing these Violences have in all probability found their period, and
+<pb n="8" facs="tcp:41004:6"/>the Betrayers of God and their Country are now coming to Answer for themselves, I shall leave further Reflections to a free and unbyass'd Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Ay, but what was it that encouraged these Violences? Was it not your unseasonable Zeal for an unlimited Obedience? your <hi>Oxford</hi> Decree, and such like Monuments of the Heats of that Age?</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Why, to tell you sincerely my Opinion in the Case; I am perswaded there were Two Parties in the Nation under<g ref="char:EOLhyphen"/>mining the Government; the one by more secret and myste<g ref="char:EOLhyphen"/>rious Methods endeavoured to introduce Popery; the other by more evident and bare-faced Proceedings, attempted the Ex<g ref="char:EOLhyphen"/>tirpation of Monarchy: Therefore the Generality of the Churchmen being more sensible of the Designs of the latter, endeavoured to stand like <hi>Moses</hi> in the Gap with those you term unseasonable Doctrines, which I also take to be the Oc<g ref="char:EOLhyphen"/>casion of the <hi>Oxford</hi> Decree; for though in my own private Opinion I never approv'd of it, but wished it might have pe<g ref="char:EOLhyphen"/>rish'd in the same <hi>Rogus</hi> with the Books it condemned; yet I am so well satisfied of the Learning and Integrity of those worthy Gentlemen who were chiefly concerned in it, that I do really believe it was only promoted for the Preservation of the Government.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Ay, you Churchmen have such a way of Respecting one another, that you had like to have fooled us, and your selves out of all; neither could I ever find you were sensible of the approaching Calamities, till Oppression touch'd your own Copy-holds.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>What you object to us in this Case seems to redound to our greatest Honour: for by our Principles we had always such a Reverence for Monarchy, that we were willing to con<g ref="char:EOLhyphen"/>nive at the failings of a Prince as long as we could; but ha<g ref="char:EOLhyphen"/>ving our Rights established by Law, we knew when we came to be oppress'd: The very Foundations of our Government were assaulted, and so we were forced to make Enquiry into our Constitutions.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>So then at length you will acknowledg the Prince of <hi>Orange</hi> not only to be a great, but a just Deliverer.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Since I have been better acquainted with the horrid De<g ref="char:EOLhyphen"/>signs of our Adversaries, and found the Contest to be only
+<pb n="9" facs="tcp:41004:6"/>between Papist and Protestant, I am not only highly sensible of the Prince's Generosity, but have inferred the Justice of his Cause from the marvellous Providences which have wrought his Success: It is certainly part of his Character, that as his first Pretences were modest, so Fortune has not tempted him to exceed them; and we have still all the Reason in the World to imagine that he only generously designed to relieve us from Oppression, without any sinister Intent of making himself Great: The Noble Cause he has undertaken is the Protestant Interest, and I doubt not but the Lord of Hosts will fight his Battels. Indeed the Success of this his first Enterprize has been so wonderful and surprizing, that it will make an Annal suspected, and seem a Fable to Posterity: For who will be<g ref="char:EOLhyphen"/>lieve that a King, who, had he acted agreeably to the true Interest of Himself and People, might have been almost the Balance of Christendom, who was prepared with a standing Army, and always Remarkable for his Conduct in War, should be invaded by a near Neighbour, Son, and Nephew; and now in a Months time so generally deserted by his Nobility, Gentry, and Military Forces, as to choose, before the Sword was drawn, to fly for Refuge to a Prince whose Title he and his Ancestors had long disputed? This, I say (as the Learned Dr. <hi>Burnet</hi> Argues at large) was the Lords doing, and ought to be mar<g ref="char:EOLhyphen"/>vellous in our Eyes.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>It was indeed an unparall'd Act of Providence; but now our Deliverance is so far Compleated, what are you Churchmen willing to do towards an Accommodation, and to the Healing of those Differences which in a great measure have contributed to the Growth of Popery?</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Though it be far above my Character to dictate what is fittest to be done at so great and difficult a <hi>Conjuncture,</hi> yet my humble Wishes, are, that the Guardians and Supporters of our Church may resolve upon such Condescentions as may satis<g ref="char:EOLhyphen"/>fy reasonable Men, and prevent any longer Dissensions amongst us: Yet this I would advise you and your Party, <hi>i. e.</hi> to stay till you are Invited, and not to thrust your selves into our Church: We are now in the hopeful <hi>Crisis</hi> of our Fever; and therefore you ought to take care lest by tampering too much, you disturb Nature in those methods she has took to digest her Humours, and so ruine all. I am not ignorant that at the be<g ref="char:EOLhyphen"/>ginning
+<pb n="10" facs="tcp:41004:7"/>of the Reformation when a Church was to be made out of a Church, several Ceremonies were retained in Com<g ref="char:EOLhyphen"/>pliance to that Age, which a violent Alteration would have too much surprized; but now, the Humours of Men being changed, may justly be laid aside. On the other hand, I am perswaded with the Author of <hi>Foxes</hi> and <hi>Firebrands,</hi> that <hi>Rome</hi> has all along been industrious to foment our Divisions, by sending us Emissaries, who could artificially dissemble a tender Conscience, and make credulous People believe that all the Decencies of our Worship were nothing but Foppery, Superstition, and the Remainders of Popery: Therefore I say my Wishes are, that a Free and Unbyass'd Parliament will tread the middle path, bearing an equal Respect to the Decenies of our Church, and the tender Consciences of reasonable Men.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Well, Neighbour, I am heartily glad to see these hap<g ref="char:EOLhyphen"/>py effects of our Calamities; and, as I think, there can be no Government so perfectly appointed as to satisfy all, yet I ap<g ref="char:EOLhyphen"/>prove so well of your Temper and Wishes, that I hope we may all Unite upon such or the like terms.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Therefore to end our Dispute, I shall only now detain you with my hearty Prayers, that the Result of this ensuing Convention on <hi>Jan.</hi> 22. may be happily to settle the Crown; and that in the succeeding Parliament, the management of these Difficulties may fall into the Hands of such Wise and Un<g ref="char:EOLhyphen"/>byass'd Persons, that Peace and Truth may be established up<g ref="char:EOLhyphen"/>on everlasting Foundations, and no sinister Interest interrupt so great a Design.</p>
+            </sp>
+            <sp>
+               <speaker>Diss.</speaker>
+               <p>Sir, you have infinitely encouraged me to wait upon you oftner, we being I think now either both <hi>Churchmen,</hi> or both <hi>Dissenters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Sir, The Design of this Conference was to tell you freely my Sentiments, and I intend ere long to make it more pub<g ref="char:EOLhyphen"/>lick, being willing to provoke some more learned and judicious Pen to perfect what I have here weakly attempted.</p>
+            </sp>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:41004:7"/>
+            <head>His <hi>Majesties</hi> Letter to the <hi>Lords</hi> and Others of his Privy Councel.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>MY Lords, When we saw that it was no longer safe for Us to remain within Our Kingdom of <hi>England,</hi> and that thereupon We had taken Our Resolutions to withdraw for some time, We left to be communicated to you and to all Our Subjects, the Reasons of Our withdrawing: And were likewise resolved at the same time to leave such Or<g ref="char:EOLhyphen"/>ders behind Us to you of our Privy Councel, as might best suit with the present state of Affairs: But that being altogether un<g ref="char:EOLhyphen"/>safe for Us at that time; We now think fit to let you know, that though it has been Our constant care since Our first Ac<g ref="char:EOLhyphen"/>cession to the Crown, to govern Our People with that Justice and Moderation, as to give, if possible, no occasion of Com<g ref="char:EOLhyphen"/>plaint; yet more particularly upon the late Invasion, seeing how the Design was laid; and fearing that Our People, who could not be destroy'd but by themselres, might by little ima<g ref="char:EOLhyphen"/>ginary Grievances, be cheated into a certain Ruine: To pre<g ref="char:EOLhyphen"/>vent so great Mischief, and to take away not only all just Causes, but even Pretences of Discontent; We freely, and of our own accord redressed all those things that were set forth as the Causes of that Invasion: And that we might be informed by the Councel and Advice of our Subjects themselves, which way we might give them a further and a full Satisfaction, We resolved to meet them in a Free Parliament; And in order to it, We first laid the Foundation of such a Free Parliament, in restoring the City of <hi>London</hi> and the rest of the Corporations to their anci<g ref="char:EOLhyphen"/>ent Charters and Priviledges; and afterwards actually ap<g ref="char:EOLhyphen"/>pointed the Writs to be issued out for the Parliaments meeting on the 15th of <hi>January:</hi> But the Prince of <hi>Orange</hi> seeing all the
+<pb n="12" facs="tcp:41004:8"/>Ends of his Declaration answered, the People beginning to be undeceived, and returning apace to their ancient Duty and Allegiance; and well fore-seeing that if the Parliament should meet at the time appointed, such a Settlement in all Probabili<g ref="char:EOLhyphen"/>ty would be made, both in Church and State, as would totally defeat his ambitious and unjust Designs, resolved by all means possible to prevent the meeting of the Parliament: And to do this the most effectual way, he thought fit to lay a restraint on Our Royal Person; for as it were absurd to call that a Free Parliament, where there is any force on either of the Houses, so much less can that Parliament be said to act freely where the Soveraign, by whose Authority they Meet and Sit, and from whose Royal Assent all their Acts receive their Life and Sanction, is under actual Confinement. The hurrying of Us under a Guard from Our City of <hi>London,</hi> whose returning Loyalty We could no longer trust, and the other Indignities We suffer<g ref="char:EOLhyphen"/>ed in the Person of the Earl of <hi>Feversham</hi> when sent to him by Us; and in that barbarous Confinement of Our own Person, We shall not here repeat, because they are We doubt not by this time very well known; and may, we hope, if enough considered and reflected upon, together with his other Viola<g ref="char:EOLhyphen"/>tions and Breaches of the Laws and Liberties of <hi>England,</hi> which by this Invasion he pretended to restore, be sufficient to open the Eyes of all our Subjects, and let them plainly see what every one of them may expect, and what Treatment they shall find from him, if at any time it may serve his Pur<g ref="char:EOLhyphen"/>pose, from whose Hands a Soveraign Prince, an Uncle, and a Father could meet with no better Entertainment. However, the sense of these Indignities, and the just Apprehension of further Attempts against Our Person, by them who already endeavou<g ref="char:EOLhyphen"/>red to murther Our Reputation by infamous Calumnies (as if We had been capable of supposing a Prince of <hi>Wales</hi>) which was incomparably more injurious, than the destroying of Our Person it Self; together with a serious Reflection on a Saying of Our Royal Father of blessed Memory, when He was in the like Circumstances, <hi>That there is little distance between the Prisons and the Graves of Princes</hi> (which afterwards proved too true in His Case) could not but persuade Us to make use of that which the Law of Nature gives to the meanest of Our Subjects of freeing Our selves by all means possible from that unjust Con<g ref="char:EOLhyphen"/>finement
+<pb n="13" facs="tcp:41004:8"/>and Restraint. And this We did not more for the Se<g ref="char:EOLhyphen"/>curity of our own Person, then that thereby We might be in a better Capacity of transacting and providing for every thing that may contribute to the Peace and Settlement of Our King<g ref="char:EOLhyphen"/>doms: For as on the one hand, no change of Fortune shall ever make Us forget Our Selves, so far as to condescend to any thing unbecoming that High and Royal Station, in which God Al<g ref="char:EOLhyphen"/>mighty by Right of Succession has placed Us: So on the other hand, neither the Provocation or Ingratitude of Our own Sub<g ref="char:EOLhyphen"/>jects, nor any other Consideration whatsoever, shall ever pre<g ref="char:EOLhyphen"/>vail with Us to make the least step contrary to the true Interest of the <hi>English</hi> Nation; which We ever did, and ever must look upon as Our own. Our Will and Pleasure thereof is, That you of Our Privy Councel, take the most effectual care to make these Our Gratious Intentions known to the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral in and about Our Cities of <hi>London</hi> and <hi>Westminster,</hi> to the Lord Mayor and Commons of our City of <hi>London,</hi> and to all Our Subjects in general; and to assure them, that We desire no<g ref="char:EOLhyphen"/>thing more, than to return and hold a Free Parliament, wherein We may have the best Opportunity of undeceiving Our People, and shewing the Sincerity of those Protestations We have often made of the preserving the Liberties and Properties of Our Sub<g ref="char:EOLhyphen"/>jects and the <hi>Protestant Religion;</hi> more especially the <hi>Church of England</hi> as by Law establish'd, with such Indulgence for those that dissent from Her, as We have always thought Our selves in Justice and Care of the general Welfare of Our People bound to procure for them. And in the mean time You of Our Privy Coun<g ref="char:EOLhyphen"/>cel, (who can judg better by being upon the place) are to send Us your Advice, what is fit to be done by Us towards Our return<g ref="char:EOLhyphen"/>ing and the accomplishing those good Ends. And We do require you in Our Name, and by Our Authority, to endeavour so to suppress all Tumults and Disorders, that the Nation in general, and every one of Our Subjects in particular, may not receive the least Prejudice from the present Distractions that is possible. So not doubting of your Dutiful Obedience to these Our Royal Commands, We bid you heartily Farewel.</p>
+            <closer>
+               <dateline>Given at St. <hi>Germans on Laye</hi>
+                  <date>the <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>January</hi> 1688/9. And of Our Reign the fourth Year.</date>
+               </dateline>
+               <hi>Directed thus,</hi> To the Lords, and Others of our Privy Councel of Our Kingdom of <hi>England. By his Majesties Command.</hi>
+               <signed>MELFORT.</signed>
+            </closer>
+         </div>
+         <div type="commentary_on_the_previous_letter">
+            <pb n="14" facs="tcp:41004:9"/>
+            <head>Some Remarks on the late Kings pre<g ref="char:EOLhyphen"/>tended Letter to the <hi>LORDS,</hi> and Others of his Privy Council.</head>
+            <p>IT begins thus, <q>
+                  <hi>My Lords, When we saw that it was no lon<g ref="char:EOLhyphen"/>ger safe for us to remain within our Kingdom of</hi> England, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>His Majesty would have given great Satisfaction to the World in discovering where the Danger lay in tarrying here; from whom, and for what cause.</p>
+            <p>He is pleased to say farther: <q>
+                  <hi>We now think fit to let you know, that though it has been our constant care since our first Accession to the Crown, to govern our People with that Justice and Moderation as to give, if possible, no occasion of Complaint,</hi> &amp;c.</q>
+            </p>
+            <p>I do not understand why his Majesty would not let us know these his Gracious Intentions before, when they might have done Himself and Us Good.</p>
+            <p>But <hi>quid verba audiam cum facta videam,</hi> to what purpose are Words when we see Facts? And as to his Moderation, I appeal to the Pope himself, or the French King, who chiefly blame him for his Rashness and want of Temper; and as for his Justice, among a thousand publick Instances to the contrary, he should remember his discountenancing and turning out of their Em<g ref="char:EOLhyphen"/>ployments all such as would not enter into his Idolatrous Wor<g ref="char:EOLhyphen"/>ship, and comply with his illegal and arbitrary Designs. Be<g ref="char:EOLhyphen"/>sides, what Justice can Hereticks expect from a Prince, who is not only a Papist, but wholly devoted to the Order of the Je<g ref="char:EOLhyphen"/>suits, and values himself for being a Member of those Reve<g ref="char:EOLhyphen"/>rend Cut-throats? <q>
+                  <hi>Yet more particularly upon the late Invasion, seeing how the Design was laid, and fearing that our People, who could not be destroyed but by themselves.</hi>
+               </q> The Design was to pre<g ref="char:EOLhyphen"/>serve the Nation from falling under the cruel Dominion of the
+<pb n="15" facs="tcp:41004:9"/>French, and to keep our selves from being dragg'd by the Hair of the Head to Mass, and from undergoing all those Miseries which those of the same Religion, and for the same Cause, have endured now lately in <hi>France</hi> and <hi>Savoy.</hi>
+               <q>
+                  <hi>To prevent so great a Mischief,</hi> (that is to say, destroying our selves,) <hi>and to take away not only all just Causes, but even Pretences of Discontent: We freely and of our own accord, redrest all those things that were set forth as the Causes of that Invasion.</hi>
+               </q> I appeal to the common Faith of Mankind touching the Insinserity of these Words, whether if this Invasion had not been, these and worse Grie<g ref="char:EOLhyphen"/>vances had not followed. <q>
+                  <hi>And that we might be informed by the Counsel and Advice of our Subjects themselves, which way we might give them a further and full Satisfaction; We resolved to meet them in a Free Parliament,</hi> &amp;c.</q>
+            </p>
+            <p>The late Kings of <hi>England</hi> have been as desirous of a Parlia<g ref="char:EOLhyphen"/>ment as Popes of a Free and General Council; there being nothing they have more studiously avoided, and greatlier feared.</p>
+            <p>
+               <q>
+                  <hi>But the Prince of</hi> Orange <hi>seeing all the Ends of his Declara<g ref="char:EOLhyphen"/>tion answered, the People beginning to be undeceived, and returning apace to their ancient Duty and Allegiance, resolved by all possible means to prevent the meeting of the Parliament,</hi> &amp;c.</q>
+            </p>
+            <p>How far the Prince of <hi>Orange</hi> has been from preventing the meeting of a Parliament, we need only consult our sen<g ref="char:EOLhyphen"/>ses.</p>
+            <p>
+               <q>
+                  <hi>The hurrying us under a Guard from our City of</hi> London, <hi>whose returning Loyalty we could no longer trust, and the other Indigni<g ref="char:EOLhyphen"/>ties we suffered in the Person of the Earl of</hi> Feversham, <hi>when sent to him by us, and in that barbarous Confinement of our own Person, we shall not here repeat.</hi>
+               </q>
+            </p>
+            <p>Do's any Man think the Prince of <hi>Orange</hi> would have had the same gentle Treatment from the King, had he been in like manner under his Power? And as to the Kings concernment for the unheard of Suffering of the E. of <hi>F.</hi> I do not wonder at it, having ever had so little Affection, or rather so great an Antipathy to his English Subjects.</p>
+            <p>
+               <q>
+                  <hi>This will be sufficient to open the Eyes of all our Subjects, and let them plainly see what every one of them may expect, and what Treatment they shall find from him, if at any time
+<pb n="16" facs="tcp:41004:10"/>it may serve his Purpose, from whose Hands a Soveraign Prince, an Ʋncle, and a Father could meet with no better Entertain<g ref="char:EOLhyphen"/>ment.</hi>
+               </q>
+            </p>
+            <p>All wise and good Protestants are so certain of happy times under the Government of this most excellent and incompora<g ref="char:EOLhyphen"/>ble Prince, that they have nothing left to fear or desire, but that God would preserve him from the Hellish Fury of the Papists And as to all these Relations of a Soveraign Prince, an Uncle, and a Father: The King would have done well to have acquitted himself to the Prince as became all these Relations.</p>
+            <p>
+               <q>
+                  <hi>However the Sense of these Indignities,</hi> &amp;c. <hi>And as if we had been capable if supposing a Prince of</hi> Wales.</q>
+            </p>
+            <p>I believe and know that the Conscience of a Popish Prince, wholly under the Conduct of the Jesuits, will find no Difficulty in consenting to so pious a Fraud, provided it can be carryed on with all prudent Cautions.</p>
+            <p>
+               <q>
+                  <hi>For as on the one hand, no change of Fortune shall ever make us forget our selves, so far as to condescend to any thing, unbecoming that High and Royal Station, in which God Al<g ref="char:EOLhyphen"/>mighty, by right of Succession has placed us. So on the other hand, neither the Provocation or Ingratitude of our own Subjects, nor any other Consideration whatsoever, shall ever prevail with us to make the least step, contrary to the true Interest of the English Nation.</hi>
+               </q>
+            </p>
+            <p>His Majesty's sincere Friend the French King, with whom he now enjoys a nearer Converse, will also concur with him in this good Design of promoting the true Interest of <hi>England.</hi> And as to his Majesty's Inclinations to Mercy, and passing by Provocations, we need mention no other Instances, but those in the West, where the Cruelties exercised on those unfortu<g ref="char:EOLhyphen"/>nate People, cannot be parallel'd in any History of Barba<g ref="char:EOLhyphen"/>rians.</p>
+            <p>
+               <q>
+                  <hi>Our Will and Pleasure therefore is, that you of our Privy Council, take the most effectual care, to make these our graci<g ref="char:EOLhyphen"/>ous Intentions known to the Lords Spiritual and Temporal, and to all our Subjects in general, and to assure them that we desire nothing more, than to return and hold a Free Parlia<g ref="char:EOLhyphen"/>ment, wherein we may have the best Opportunity of unde<g ref="char:EOLhyphen"/>ceiving our People, and shewing the Sincerity of those Pro<g ref="char:EOLhyphen"/>tections
+<pb n="17" facs="tcp:41004:10"/>of preserving (especially) the Church of</hi> England <hi>as by Law esta<g ref="char:EOLhyphen"/>blished.</hi>
+               </q>
+            </p>
+            <p>A Man wou'd wonder any Prince that overlooks what his Secretary writes, should suffer such apparent and palpable Un<g ref="char:EOLhyphen"/>truths to pass: For is it not manifest to all the World; That the late King, through the Jesuits Counsel, did all that was possible to weaken and overturn (especially) the Church of <hi>England,</hi> as well by open Declarations and Practices, as by more secret Ways and Contrivances, inciting one part of his Protestant Subjects to destroy the other, and then immedi<g ref="char:EOLhyphen"/>ately after exposing them for it, and encouraging and inspiring these later with a Spirit of Revenge and Retaliation.</p>
+            <p>And thus having briefly can over whatever seems material in this Letter, I shall desist from Repetitions, and insisting on mere words of Course, and Matters of form, seeing this would be to tire to Reader's Patience, and a lesning of his Judgment.</p>
+         </div>
+         <div type="text">
+            <head>Reasons for Crowning the Prince and Princess of <hi>Orange</hi> King and Queen jointly; and for placing the Execu<g ref="char:EOLhyphen"/>tive Power in the Prince alone.</head>
+            <p>WHereas the Grand Convention of the Estates of <hi>England,</hi> have asserted the Peoples Right by decla<g ref="char:EOLhyphen"/>ring, <hi>That the late</hi> King James the Second, <hi>having endeavoured to Subvert the Constitution of the Kingdom, by break<g ref="char:EOLhyphen"/>ing the</hi> Original Contract <hi>between</hi> King and People: <hi>And by Advice of Jesuits, and other wicked Persons, having Violated the</hi> Fundamental Laws: <hi>And having withdrawn himself out of this Kingdom, has</hi> Abdicated <hi>the Government, and that the</hi> Throne <hi>is thereby</hi> Vacant. For which Misgovernment He has forfeited
+<pb n="18" facs="tcp:41004:11"/>the Trust of the Regal Inheritance of the Executive Power, both in Himself, and in His Heirs, Lineal and Collateral; so that the same is devolved back to the People, who have also the Legislative Authority; and consequently may of Right Give and Dispose thereof, by their Representatives, for their future Peace, Benefit; Security, and Government, according to their good Will and Pleasure. And forasmuch as it is ab<g ref="char:EOLhyphen"/>solutely Necessary, that the Government be speedily setled on sure and lasting Foundations, and consequently, that such Per<g ref="char:EOLhyphen"/>son or Persons be immediately placed in the Throne, in whom the Nation has most reason to repose an entire Considence: It therefore now lies upon Us to make so Judicious a Choice, that we may, in all Humane Probability, thereby render Our selves a Happy People, and give Our Posterity cause to Re<g ref="char:EOLhyphen"/>joice, when they shall read the Proceedings of this Wise and Grand <hi>Convention.</hi> Who is it therefore that has so highly Merited the Love and good Opinion of the People, the Honour of Wearing the Crown, and Swaying the Scepter of this Land, as His Illustrious Highness the Prince of <hi>Orange?</hi> who with so great Expence, Hazard, Conduct, Courage, and Generosity, has happily Rescued Us from <hi>Popery,</hi> and <hi>Slavery;</hi> and with so much Gallantry Restored Us to Our Ancient Rights, Religion, Laws, Liberties, and Properties: for which Heroick Action, we can do no less, in Prudence, Honour, and Grati<g ref="char:EOLhyphen"/>tude, than Pray Him to Accept Our Crown.</p>
+            <p n="2">II. It is better to settle the Exercise of the Government in One who is not immediate in the Line, than in One that is; (1.) Because it is a clear Asserting of a Funda<g ref="char:EOLhyphen"/>mental Right, that manifests the Constitution of the <hi>English</hi> Government, and covers the Subjects from Tyranny and Sla<g ref="char:EOLhyphen"/>very. (2.) It cuts off the Dispute of the pretended Prince of <hi>Wales.</hi> (3.) The old Succession being legally Dissolved, and a new one made, the Government is secured from falling into the Hands of a Papist.</p>
+            <p n="3">III. The <hi>making</hi> the Prince and Princess of <hi>Orange</hi> King and Queen jointly, is the Nation's Gratitude and Generosity: and by re-continuing the <hi>Line</hi> in Remainder, is manifested the inestimable Value the People have for the <hi>two Princesses,</hi> not<g ref="char:EOLhyphen"/>withstanding the Male-administration of the Unhappy Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="19" facs="tcp:41004:11"/>
+            <p n="4">IV. The present State of <hi>Europe</hi> in General, and of these Kingdoms in Particular, require a Vigorous and Masculine Ad<g ref="char:EOLhyphen"/>ministration. To recover what's lost, rescue what's in danger, and rectify what's amiss, cannot be effected but by a Prince that is consummate in the Art both of Peace and War. Tho the Prince and Pincess be King and Queen jointly, and will equally share the Glory of a Crown, and we the Happiness of their Auspicious Regin: yet the Wisdom of the Grand Con<g ref="char:EOLhyphen"/>vention is manifested,</p>
+            <p>
+               <hi>First,</hi> In placing the Executive Power in One of them, and not in Both; for two Persons, equal in Authority, may dif<g ref="char:EOLhyphen"/>fer in Opinion, and consequently in Command; and it is evi<g ref="char:EOLhyphen"/>dent no Man can serve two Masters.</p>
+            <p>
+               <hi>Secondly,</hi> It's highly necessary and prudent, rather to vest the Administration in the Husband, than in the Wife.</p>
+            <p n="1">(1.) Because a Man, by Nature, Education and Experience, is generally rendred more capable to Govern than the Wo<g ref="char:EOLhyphen"/>man.</p>
+            <p>Therefore, (2.) the Husband ought rather to Rule the Wife, than the Wife the Husband, especially considering the Vow in Matrimony.</p>
+            <p n="3">(3.) The Prince of <hi>Orange</hi> is not more proper to Govern as he's Man, and Husband only, but as he is a Man, a Husband, and a Prince of known Honour, profound Wisdom, undaunted Courage, and incomparable Merit; as he's a Person that's na<g ref="char:EOLhyphen"/>turally inclin'd to be Just, Merciful and Peaceable, and to do all Publick Acts of Generosity for the Advancement of the In<g ref="char:EOLhyphen"/>terest and Happiness of Humane Societies, and therefore most sit under Heaven, to have the sole Executive Power.</p>
+         </div>
+         <div type="speech">
+            <pb n="20" facs="tcp:41004:12"/>
+            <head>A <hi>LORD's-Speech</hi> Without Doors, To the Lords upon the present <hi>Condition</hi> of the <hi>Government.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>PRay give me leave to cast in my <hi>Mite</hi> at this time upon this great Debate; and though it be with an entire dis<g ref="char:EOLhyphen"/>sent to some Leading Lords, to whom I bear great re<g ref="char:EOLhyphen"/>verence, it is according to my Conscience, and that is the <hi>Rule</hi> of every honest Man's Actions.</p>
+            <p>My, Lords, I cannot forbear thinking, that a greater Re<g ref="char:EOLhyphen"/>proach can hardly come upon any People, than is like to fall upon us <hi>Protestants,</hi> for this unpresidented usage of our poor King: We feared the security of our Religion because of Him, and are now like to <hi>Violate</hi> a great part of it by forfeiting our Loyalty towards Him; <hi>Religion</hi> is the Pretence, but some fear, a <hi>New Master</hi> is the Thing: This I take to have been to Bu<g ref="char:EOLhyphen"/>siness of to Day; for, notwithstanding we see how seeble a thing <hi>Popery</hi> is in <hi>England,</hi> that it is beaten without Blows, and routed so effectually, that it can never hope, nor we justly fear, it should return upon us, and consequently our Religion pretty secure, yet I don't see that this satisfies us, unless the <hi>King</hi> goes also: He must be <hi>turned away,</hi> and the Crown <hi>change</hi> its Head; for if the <hi>Crown</hi> be not the <hi>Quarrel</hi> more than Property, and his <hi>Majesty's Person</hi> than his <hi>Religion;</hi> Why did not the <hi>Prince</hi> stop, when he heard a <hi>Free Parliament</hi> was calling by the <hi>King</hi>'s Writs, (where all Matters, especi<g ref="char:EOLhyphen"/>ally that of the <hi>Prince of Wales,</hi> might have been considered) or at least, where his Majesties Commissioners of Peace met him? Who advised him to adrance, and give his Majesty that apprehension of his own insecurity; and if any thing but a
+<pb n="21" facs="tcp:41004:12"/>Crown would have served him, Why was a <hi>Noble Feer</hi> of this House clapt up at <hi>Winsor,</hi> when his Majesty sent him on pur<g ref="char:EOLhyphen"/>pose to invite the <hi>Prince</hi> to St. <hi>James</hi>'s? a Message that affected all good Mens Hearts more then any thing, but his Majesty's return, <hi>it look'd so Natural and Peaceable.</hi> But it seems, as if it had been therefore affronted, for the Invitation could not have been received without the <hi>King</hi>'s remaining King; and who was there that did not lately say, it should be so? I and who is there now that does not see it is not so?</p>
+            <p>We can, my Lords, no longer doubt of this, if we will re<g ref="char:EOLhyphen"/>member that the same Night the <hi>Prince</hi> should have answered his Majesty's kind Message, <hi>The King's Guards were changed, and at midnight the Prince's Guards were clapt upon his Majesty's Person;</hi> and which is yet more extravagant to accomplish the business, <hi>Three noble Lords,</hi> in view, were sent to let him know, <hi>It was not for his safety, or the Princes honour, that he should stay in his own Palace.</hi> A strange way, my Lords, of treating ones own <hi>King</hi> in his own House. I cannot comprehend how it was for the <hi>Prince</hi>'s Honour the <hi>King</hi> should go against his Will; or how it was against his Honour that his Majesty should be safe in his own House: I leave it with your Lordships to think who could render the <hi>King</hi>'s stay-unsafe at <hi>White-hall</hi> after the <hi>Dutch</hi> Guards were posted there?</p>
+            <p>My Lords, this I confess is the great <hi>Iniquity</hi> that sticks with me, and deserves our severest Scrutiny and Reflection; that after <hi>driving</hi> our <hi>King</hi> away, we should offer to address our selves to any Body to take the Government, as if he had for<g ref="char:EOLhyphen"/>mally disserted it: It becomes us rather to ask, <hi>Where the King is? how he came to go? and who sent him away?</hi> I take the Ho<g ref="char:EOLhyphen"/>nour of the <hi>Pearage</hi> of <hi>England</hi> to be deeply ingaged, both at Home and Abroad, <hi>to search out this Matter,</hi> and especially those who are now present, most of whom owe their share <hi>in that noble Order</hi> to his Majesty, his Brother, Father, or Grand<g ref="char:EOLhyphen"/>father. It is not unreasonable to believe the King had not gone at first, but upon some <hi>Message sent, and Letters received,</hi> to take care of his Person, for that nothing less than the Crown was intended; but being not out of his own Territories, and therefore no Dissertion, Abdication, or Remise, as the Criticks of the Conjuncture we are under pretend, (for the <hi>King</hi> may be where he will in his own Kingdom:) we see while it was in
+<pb n="22" facs="tcp:41004:13"/>his choice to go, he returned, and by as good as our advise too; so that we cannot in truth say his Dissertion is the cause; for it is plainly the Effect of our late extraordinary proceed<g ref="char:EOLhyphen"/>ings. If any should say, <hi>He needed not have gone now:</hi> it is a great mistake, for a King ought to go, if he cannot stay a King in his own Kingdom, which <hi>Force</hi> refused to let him be: And to stay a <hi>Subject</hi> to another Authority, had been a <hi>meaner forfeiture</hi> of his Right, then can in justice be charged upon his Retirement: Wherefore his going must and will lie at their Doors that <hi>set him an hour to be gone out of his own Palace.</hi>
+            </p>
+            <p>Many are angry (and yet pleased) that he is gone for <hi>France;</hi> but where, my Lords, should he go? <hi>Flanders</hi> dared not receive him: <hi>Holland,</hi> you could not think he should go to; and <hi>Ireland</hi> you would have liked less; and when we con<g ref="char:EOLhyphen"/>sider how far a <hi>League</hi> with <hi>France</hi> has been made the cause of his Misfortune (though to this day it is in the Clouds) what other <hi>Prince</hi> had the same Obligation to receive and succor him: Therefore whatever Arts are used to <hi>blacken</hi> his Retreat, we cannot, with any shew of Reason, imagine that he could think himself safe with us, that had <hi>exercised Soveraign Pow<g ref="char:EOLhyphen"/>er without him our Soveraign Lord,</hi> and under the protection of a <hi>Forraign Prince</hi> and his <hi>Army;</hi> though at the same time, we had <hi>Sworn Allegiance to him, and that it was unlawful for us to take up Arms against him under any Pretence whatever.</hi>
+            </p>
+            <p>My Lords, if this be not virtually and in effect to pull the <hi>Crown</hi> off his Head, and dethrone him unheard, I am to learn my Alphabet again. This is short warning to give Kings, for us at least, my Lords, that boast of Loyalty, and were brought to these Seats by the favour of the <hi>Crown.</hi> What can other Nations think of the Nobility of this, if we come not to a juster temper? God defend us, and our Children after us, from the ill Consequences of what has been done, and prevent the rest. Had we imbraced the happy Providence of his Ma<g ref="char:EOLhyphen"/>jestyes return, we might have improved it, that the Children unborn should have blessed us: Then we had reformed safely, for by joyning <hi>Title</hi> to our Actions, we had made them legal: This we should have had from his Majesty, or a plain denial, which would in some measure have excused so rare and unu<g ref="char:EOLhyphen"/>sual an Enterprise: Nor can I comprehend which way it is possible to <hi>guard the Prince's Honour,</hi> but by doing his Majesty
+<pb n="23" facs="tcp:41004:13"/>
+               <hi>Right;</hi> for your Lordships may please to remember, that in the <hi>Memorial of the States,</hi> that was printed amongst us, which they gave to all the publick Ministers at the <hi>Hague,</hi> to justify their lending the <hi>Prince</hi> their <hi>Forces</hi> upon this Expedition, they do expresly say, <hi>It was upon condition not to dethrone the King, or alter the Succession;</hi> and in my Opinion we are in the high way to both.</p>
+            <p>My Lords, we are <hi>Protestant Christians,</hi> as well as <hi>Peers</hi> of the Realm; and are now <hi>upon our Religion and Conscience,</hi> as well as <hi>Honour,</hi> to do right: Let us so act as we can answer it to God and Man, and not <hi>stumble at Straws and leap over Blocks:</hi> Errors cannot be corrected by committing greater; nor one part of the Government be mended, by beating out another to do it. I need not tell your Lordships, that by our Laws, Kings cannot err, and therefore they are not accountable, but their Ministers are, without whom a King cannot perform any Act of Govern<g ref="char:EOLhyphen"/>ment, which is the reason of the Maxim; and therefore let them be punished that the Law only makes guilty. This our wise Ancestors contrived to save the <hi>Head of the Government whole,</hi> and to prevent the Confusion and Disorder that might otherwise be apt to attend the Form of it; nor is it indeed a thing that ought to be indured by us <hi>Peers,</hi> to suppose that he that raised us so high, could be for any Reason thrown by us so low.</p>
+            <p>My Lords, Let us limit the King if you please, but not re<g ref="char:EOLhyphen"/>nounce Him; there is a difference between restraining and de<g ref="char:EOLhyphen"/>stroying Him. What need of such extraordinary Remedies, since that which secures the Government under one <hi>King,</hi> will do it under another? <hi>Popery</hi> it self can never come in but over the Bridg of <hi>Despotick</hi> or <hi>Absolute</hi> Power; and if we can secure our selves from that, we are as safe against Opinion as against Ambition; and till we are so by an Amendment of our Consti<g ref="char:EOLhyphen"/>tution, we are exposed to the meer good Nature of the <hi>Prince</hi> in Possession whoever he be. And to render what I have said to your Lordships not unreasonable, and what I have to move your Lordships to, in the close of my Speech, not un<g ref="char:EOLhyphen"/>grateful: I beseech your Lordships that we may cast up our Ac<g ref="char:EOLhyphen"/>count, and see how our Loss and Gain stands, so far as we have gon<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st our late Change.</p>
+            <p>We have lost a lawful <hi>King,</hi> and got an unlawful <hi>Protecton,</hi>
+               <pb n="24" facs="tcp:41004:14"/>as our Law stands; we have missed a Legal and a Free Parliament, and have got a Convention that cannot make Laws, nor call a Parliament that can, but what will need a Confirmation from a better Authority.</p>
+            <p>We have lost the Reputation of <hi>keeping our Faith with Here<g ref="char:EOLhyphen"/>ticks,</hi> by breaking our solemn Oaths with our <hi>King,</hi> in the time of his Extremity, because we thought him such, though he gave us leave to lay down our Commissions, that we might not have the Temptation or occasion to <hi>betray Him;</hi> But we have got the Reputation of good Protestants by it; though I fear, not of good Men, in that some of us have not only not shown our selves religiously concerned for our Religion, but in some respect, not honestly; that besides a thousand personal Immoralities, could press Advance-Mony from the <hi>King</hi> over<g ref="char:EOLhyphen"/>night, to bear the charges of disserting Him next day, against our <hi>warm and repeated Vows, to take his Fate, and die at his Feet?</hi> and that any of us should be <hi>sainted</hi> for this Treachery, and numbred among the <hi>Heroes</hi> for our running away, cannot sure<g ref="char:EOLhyphen"/>ly <hi>be the Lords doing,</hi> let Dr. <hi>Burnet</hi> say what he will, and yet <hi>it is very marvellous in some Mens Eyes for all that.</hi> These are the Sparks, my Lords, that hunt the poor <hi>Kings</hi> Blood, though we know they had hardly had any in their Veins but for his Bounty, and yet are the Favorites of the Reformation. For Christ's sake, my Lords, let us not at this rate <hi>christian Villany,</hi> and <hi>rank Dishonesty among the Graces. Popery</hi> it self could not have done more, and it is certain, we are even with the <hi>Papists</hi> now to all Intents and Purposes.</p>
+            <p>This is not all our Loss, we have rebelled against the fifth Commandment also, <hi>Honour thy Father;</hi> and though we have got that of <hi>leaving Father for the sake of Religion,</hi> we could have but little Religion to do it in such a manner, to so affecti<g ref="char:EOLhyphen"/>onate a Father; nor did it lessen the Error, to have a Church-of-<hi>England</hi>-Apostle to be Captain of her Life-Guard, <hi>in his blew Coat, and Jack-Boots,</hi> and an arrant <hi>tempora. Sword in his Hand, to defend natural Affection and passive Obedienc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> This was an odd sort of Compliance with our Saviour's Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mand, to put up his Sword, as one of St. <hi>Peters</hi> Successors. My Lords, I must not stop here; we thought we had been rid of <hi>Pop<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Soul<g ref="char:EOLhyphen"/>diers,</hi> but find we have got as many <hi>Papists</hi> in our <hi>Dutch,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we had in our <hi>English Army:</hi> Now it is plain, that either all <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pists
+<pb n="25" facs="tcp:41004:14"/>are not alike, and then the Danger we have apprehended from <hi>Papists,</hi> is not universal, as we have affirmed, but that they are to be lived with, since we are to be saved and guarded from the Danger of <hi>Popery</hi> by them; or we have ill luck to think we can be safe from that Religion by those that are of it, be<g ref="char:EOLhyphen"/>cause they are <hi>Dutch-men.</hi> My Lords, I am sorry we can take such Pleasure to see Strangers tread our Courts, pray God it does not show the way to other Countries to take their turns. But that a <hi>Dutch Papist</hi> should be so <hi>harmless</hi> a thing with us, that though no <hi>Papists</hi> could be so, shows our Contradictions to a Madness. I know not how well our <hi>Souldiers</hi> like to give way to <hi>Dutch-Men,</hi> that though they had purchased a Prefe<g ref="char:EOLhyphen"/>rance to Strangers at a dear rate; but it is the justest thing in the World upon them, that the <hi>Prince</hi> should distrust those to guard him, that had betrayed their own Master that loved them to a fault; they may serve to be sent for <hi>Holland,</hi> to be knockt on the Head in the <hi>Dutch-mans</hi> quarrel, but never to be trusted at home, though they have given up their Quarters with their <hi>King</hi> to. Foreigners, so that the Proverb is true up<g ref="char:EOLhyphen"/>on them, they have hereby brought their Noble to Nine-pence. Yet to be just, I must confess it is a Reproach due to their Offi<g ref="char:EOLhyphen"/>cers, and not all of them neither, and time may give those the Opportunity to retrieve the Credit they have lost by other Mens Faults.</p>
+            <p>We were also very apprehensive of the ill Consequences of the <hi>dispensing Power,</hi> especially in the case of Sr. <hi>Edward Hales;</hi> but it seems the <hi>Common Council of London</hi> are forbid to take the usual Oaths, and yet required to act, which is an unqualified Capacity. We were in hopes we had lost a rude Army, but we have found a ruder; twenty places cry out of them; and <hi>King<g ref="char:EOLhyphen"/>stone</hi> certainly with great Justice, that in two Nights time was two hundred Pounds the worse for them. And for <hi>Closseting</hi> we have got <hi>Questioning,</hi> that they that won't enter into <hi>Associations</hi> to protect the <hi>Prince of Orange,</hi> without one of our <hi>King,</hi> is to have no Imployment; so that if the <hi>Prince</hi> should take the <hi>Crown,</hi> I am bound to defend him against my own <hi>King,</hi> and my <hi>sworn Allegiance,</hi> though he come in the right of his <hi>Crown.</hi> Believe me, my Lords, it is the boldest bid that ever Men made; I see <hi>Forty one</hi> was a Fool to <hi>Eighty eight;</hi> and that we Church of <hi>England</hi> Protestants shall cancel all the Meritsof our Fathers, overthrow
+<pb n="26" facs="tcp:41004:15"/>the Ground and Consequence of their most <hi>exemplary Loyalty</hi> to <hi>King Charles</hi> the first and second, render their Death, the <hi>Death of Fools,</hi> trample their <hi>Memories and Blood</hi> under our Feet, sub<g ref="char:EOLhyphen"/>ject our selves to the <hi>just Reproach</hi> of the <hi>Phanaticks,</hi> whose Prin<g ref="char:EOLhyphen"/>ciples and Practices we have outdone, even to that <hi>King</hi> that we forced upon them, and by our Example had brought them to live well withal. God help us, this my Lords makes me say, that either we must turn from being Church-of-<hi>England</hi>-Men, or steer another course, for it is but too plain that <hi>Presbytery</hi> is leading us out of our ancient way; and whether we believe it or no, our Church sinks, and will more, for that is the In<g ref="char:EOLhyphen"/>terest that suits best with a <hi>Dutch Humour and Conjunction;</hi> and be sure, if we are so base to leave our <hi>King,</hi> God will be so just as to leave us; and here, my Lords, I shall leave you, with this <hi>humble motion,</hi> that we make an <hi>humble Address to his Majesty to return home to us,</hi> that we may act securely, and not go out of the good old way, which may intail Misery upon us and our Posterity. I should think we have had enough of <hi>sending our Princes abroad,</hi> in that much of the Inconveniency we have lain under since their Restoration, has been chiefly owing to it: We have driven him where we would not have him go, and do what we can to provoke that League we have been afraid of; and made a great part of the reason of this strange Alteration in the Kingdom. Some tell us, <hi>it is too late,</hi> but I cannot com<g ref="char:EOLhyphen"/>prehend the good sence of such an Objection; Is it at any time too late for a <hi>King</hi> and his People to agree? after bloody Bat<g ref="char:EOLhyphen"/>tels it has not been thought so, in all times and Nations; and why it may not be without them; I never heard a good reason yet: If his going was unreasonable, it has hurt him more than us, since we may thence hope for the better terms; if it was not a Fault to go, it will be a great one in us, if we can have him home upon good terms, and will not; for if I may with leave speak it, his return is as much our Conveniency as his Advantage.</p>
+            <p>The offensive part of Him is gone, that is to say, the Power of <hi>Popery,</hi> and what remains is our great Interest to keep and improve to our own Benefit and Safety; I mean, my Lords, <hi>His undoubted Title and Kingship.</hi> And whatever some not Men say, that are more governed by private Avarice and Revenge, then the publick Good of these Kingdoms, I cannot but renew
+<pb n="27" facs="tcp:41004:15"/>my motion to your Lordships, that we may send a <hi>Duke,</hi> an <hi>Earl,</hi> a <hi>Viscount</hi> and a <hi>Baron,</hi> and two <hi>Spiritual Lords</hi> to invite his Majesty home, upon the Constitution of the Government. And my Lords, forgive me if I say, that if we can but get our <hi>Juries, Sheriffs, Judges, High Courts of Chancery and Parlia<g ref="char:EOLhyphen"/>ments</hi> setled as they ought to be; the <hi>Army</hi> at least reduced, the <hi>Militia</hi> better regulated, and a due <hi>Liberty of Conscience</hi> established to all Protestant Dissenters, and so far to Papists only, as the <hi>Law against Conventicles does admit,</hi> we may yet be happy; and upon these terms, my Lords, and no other, will his Highness the <hi>Prince of Orange</hi> become truly meritorious with the <hi>English Nation.</hi>
+            </p>
+            <div type="commentary_on_previous_speech">
+               <head>Reflections on a Paper called a <hi>LORD'S</hi> Speech without Doors.</head>
+               <p>THIS Noble Lord would have done ingenuously in let<g ref="char:EOLhyphen"/>ting the World know his Name, and whether he be a Lord or not; for one cannot gather it from his Libera<g ref="char:EOLhyphen"/>lity, <hi>of casting in a mite</hi> at this time, when mean People, such as Trades-men, have more generosity, and effectually contributed to the publick Peace and Honour of the Nation. And as to <hi>his dissenting to some leading Lords on the account of Conscience;</hi> we are in the dark as to what sort of Conscience his is, whe<g ref="char:EOLhyphen"/>ther Papist or Phanatick Conscience, or indeed whether it be any Conscience at all, which makes him differ from some leading Lords; for the making of Speeches within or without Doors, is no infallible Mark of either.</p>
+               <p>But he says, <q>
+                     <hi>He cannot forbear thinking that a greater Reproach can hardly come upon a People, than is like to fall on us Protestants.</hi>
+                  </q> Ah, good Soul, what's the matter? Are the Protestants at length sound to be the Firers of their own City, or Sr. <hi>Edm-B. Godfrey,</hi> and the Earl of <hi>Essex</hi>'s Murtherers? <hi>&amp;c.</hi> Why no, <q>
+                     <hi>O its this unpresidented Ʋsage of our poor King.</hi>
+                  </q> A good tender-hearted
+<pb n="28" facs="tcp:41004:16"/>Jesuit i'le warrant thee, that has entred (with <hi>Campian</hi>) into an Holy League and Covenant to destroy all Protestant Kings and Princes, unless they become as bigotted to the Society as the <hi>poor King</hi> was. But let me take the Boldness to ask your Ho<g ref="char:EOLhyphen"/>nour one Question; Is there no time when compassion is due to the Country? <q>
+                     <hi>Religion is the Pretence, but some fear a new Master is the thing.</hi>
+                  </q> And is it any wonder if a new Master be desired, when the old one will not let me serve him, but will destroy me, and perhaps himself too; this being a clear case, and evident to all Orders and Degrees of Men among us.</p>
+               <p>
+                  <q>
+                     <hi>We see how feeble a thing Popery is in</hi> England:</q> and it is, I do not doubt, your Lordships great Grief that your old Master may not be let in again, to strengthen and revive her drooping and almost decayed Spirits.</p>
+               <p>
+                  <q>
+                     <hi>But why did not the Prince stop, when he heard a Free-Parliament was calling by the Kings Writs, where all matters, especially of the Prince of</hi> Wales, <hi>might have been considered,</hi> &amp;c.</q> As to a Free-Parliament, is it not evident to all the World that the King could not bear it? Besides, who told his Lordship, that his old Master would abide by the Decisions of a Free-Parliament, touching the Legitimacy or Spuriousness of his Prince of <hi>Wales?</hi>
+               </p>
+               <p>
+                  <q>
+                     <hi>The Kings Guards were changed, and at Midnight the Prince's Guards were clapt on his Majesties Person.</hi>
+                  </q> And I pray what harm befel him from this change?</p>
+               <p>It seems he might, notwithstanding, dispose of himself as he pleased. And was it decent, when his own People forsook him, that he should be left at the Discretion of the Rabble?</p>
+               <p>
+                  <q>
+                     <hi>It becomes us too to ask where the King is? how he came to go? and who sent him away?</hi>
+                  </q> A notable Question indeed, and which every Apple-woman, or Broom-man can resolve.</p>
+               <p>
+                  <q>
+                     <hi>But many are angry, and yet pleased.</hi>
+                  </q> This is <hi>Nokes</hi> all over: Why then, angry and pleased is one and the same thing with your Lordship.</p>
+               <p>
+                  <q>
+                     <hi>That he is gone for</hi> France: <hi>but where, my Lords, should he go?</hi> Flanders <hi>dared not receive him.</hi>
+                  </q> Good your Honour why? is not his Catholick Majesty as zealous and hospitable as the most Chri<g ref="char:EOLhyphen"/>stian King? Ay but the Spaniard had no private Leagues of assisting each other to root out the Northern Heresy, and other Intimacies which every Body must not know of.</p>
+               <pb n="29" facs="tcp:41004:16"/>
+               <p>
+                  <q>Holland <hi>you could not think he should go to.</hi>
+                  </q> Yet there was a time when <hi>Holland</hi> was more kind to him and his Brother than <hi>France,</hi> and he has rewarded the former very well for it.</p>
+               <p>
+                  <q>
+                     <hi>Therefore we cannot, with any shew of Reason, imagin that he could think himself safe with us, that had exercis'd Soveraign Pow<g ref="char:EOLhyphen"/>er without him our Soveraign Lord.</hi>
+                  </q>
+               </p>
+               <p>Sure I am, no Man of Sense could think himself safe under his Power, that was unwilling to part with his Religion and Property.</p>
+               <p>
+                  <q>
+                     <hi>And under the protection of a Foraign Prince and his Army.</hi>
+                  </q> And without his Protection, what wou'd have become of us?</p>
+               <p>
+                  <q>
+                     <hi>Though at the same time we had sworn Allegiance to him, and that it was unlawful for us to take up Arms against him under any Pretence whatever.</hi>
+                  </q>
+               </p>
+               <p>I would know of your Lordship, Whether the Oath, in your Honour's sence, does not make our Lives and Estates to depend on the Prince's mere Will and Pleasure?</p>
+               <p>
+                  <q>
+                     <hi>My Lords, let us limit the King, if you please, but not renounce him.</hi>
+                  </q> Did he tell your Reverence he would be limited? And was he not limited before? Besides, a Prince of his Humour, and in his Circumstances, must needs be very easy, and his Sub<g ref="char:EOLhyphen"/>jects very secure, under these Chimerical Limitations.</p>
+               <p>
+                  <q>
+                     <hi>But we had lost a Lawful King;</hi>
+                  </q> and gotten a more Lawful, and infinitely Better in his room.</p>
+               <p>
+                  <q>
+                     <hi>Against our warm and repeated Vows, to take his Fate, and die at his Feet.</hi>
+                  </q> I know not of whom the Gentleman speaks, unless it be of Addressers, whose Dissimulation and deceitful Court<g ref="char:EOLhyphen"/>ship I have ever more abominated than himself.</p>
+               <p>
+                  <q>
+                     <hi>And that any of us should be numbred among the Heroes for our running away, cannot surely be the Lord's doing, let Dr.</hi> Burnet <hi>say what he will.</hi>
+                  </q> This Gentleman do's very well to put himself among the Run-aways; but it's more likely his Reverence wou'd have bin Sainted, and made an Hero by staying be<g ref="char:EOLhyphen"/>hind.</p>
+               <p>
+                  <q>
+                     <hi>For Christ's sake, my Lords, let us not at this rate christen Vil<g ref="char:EOLhyphen"/>lany, and rank Dishonesty among the Graces.</hi>
+                  </q>
+               </p>
+               <p>A Man wou'd take his Lordship now for some <hi>Lincolns</hi>-Inn-<hi>Fields</hi> Mumper from his Cant; but he beggs in earnest, who's All is at Stake; I know your Honour's Necessity, the State of
+<pb n="30" facs="tcp:41004:17"/>who's Case is briefly this; The Papists, and especially the Je<g ref="char:EOLhyphen"/>suits in their Consults, both at Home and Abroad, for the set<g ref="char:EOLhyphen"/>ting up of Popery, and extirpating the Protestant Religion in <hi>England,</hi> have come to this decisive Conclusion, that it's impos<g ref="char:EOLhyphen"/>sible to effect this but under a Popish King.</p>
+               <p>But says he further, <q>
+                     <hi>This is not all our loss, we have rebelled a<g ref="char:EOLhyphen"/>gainst the</hi> 5th <hi>Commandment also, Honor thy Father; and though we have got that of leaving Father of the sake of Religion, we could have but little Religion to do it in such a manner, to so af<g ref="char:EOLhyphen"/>fectionate a Father.</hi>
+                  </q>
+               </p>
+               <p>Here his Reverence, I find, is not serious, but jokes on his <hi>poor King;</hi> for give me an instance where his Paternal Affection appear'd, unless his Fatherly care of dragging us up in his own Religion be one?</p>
+               <p>
+                  <q>
+                     <hi>Nor did it,</hi> says he, <hi>lessen the Error, to have a Church-of</hi>-Eng<g ref="char:EOLhyphen"/>land <hi>Apostle to be Captain of her Life Guard,</hi> &amp;c.</q>
+               </p>
+               <p>I wou'd ask my Noble Sir here one Question, (for the Jesuits are wont to be excellent Casuists) Whether a Churchman, observing his own, and his Neighbours Houses a going to be fired by Rogues, he may not use another Sword besides that of the Spirit, to drive them away?</p>
+               <p>Now he is troubled, and in great conflicts of Spirit, <q>
+                     <hi>how our Soldiers are like to give way to Dutch-men.</hi>
+                  </q>
+               </p>
+               <p>The Dutch Soldiers have behaved themselves with that Civi<g ref="char:EOLhyphen"/>lity and Moderation, where-ever they come, as may make o<g ref="char:EOLhyphen"/>thers of that Profession blush at a Comparison in this point. However, let not this Matter much afflict your Honour, or Re<g ref="char:EOLhyphen"/>verence. There will be care taken that our Soldiers shall not give way to Foreigners, nor to every Irish-man, who you know were the Sparks and Darlings of the last Reign.</p>
+               <p>But now <q>
+                     <hi>it is but too plain, that Presbytery is leading us out of our Ancient Way.</hi>
+                  </q> Never fear it, good Father, for there's no dan<g ref="char:EOLhyphen"/>ger of either that, or Popery, being the National Religion in <hi>England.</hi> And having satisfi'd you so far, I am not willing to tire my self with writing Replies to every Word of your <hi>Speech without Doors.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="31" facs="tcp:41004:17"/>
+            <head>The Bishops Reasons to Queen <hi>Elizabeth,</hi> for taking off the <hi>Queen of Scots,</hi> taken out of Sir <hi>S. D'Ewes</hi> Journal: offered to the Consideration of the Pre<g ref="char:EOLhyphen"/>sent Sect of <hi>Grumbletonians.</hi>
+            </head>
+            <p>FOR that they had a long time, to their intolerable Grief, seen by how manifold most dangerous and execrable Practices, the said Queen of <hi>Scots</hi> had compassed the Destruction of her Majesties Person, thereby not only to bereave them of the Sincere and True Religion of Almighty God, bringing them and this Noble Crown back again into the Thraldom of the <hi>Romish Tyranny,</hi> but also utterly to ruinate and overthrow the happy State and Commonweale of this most Noble Realm; to banish and destroy the Professors and Pro<g ref="char:EOLhyphen"/>fession of the True Religion of Jesus Christ, and the Ancient Nobility of this Land, to bring this whole State and Com<g ref="char:EOLhyphen"/>mon-weale to Forreign Subjection, and to utter Ruine and Confusion; which Malicious Purposes would never cease to be prosecuted by all possible Means, so long as the said Queens Con<g ref="char:EOLhyphen"/>federates, her Ministers and Favourites had their Eyes and Ima<g ref="char:EOLhyphen"/>ginations fixed upon the said Queen, the only Ground of their Treasonable Hopes and Conceits, and the only Seed-plot of all Dangerous and Traiterous Devices and Practices against her Majesties Sacred Person. And for that, upon advised and great Consultation, they could not find any possible means to provide for her Majesties Safety, but by the just and speedy Execution of the said Queen, the neglecting whereof might procure the heavy Displeasure and Punishment of Almighty God, as by sundry severe Examples of his great Justice in that
+<pb n="32" facs="tcp:41004:18"/>behalf left us in Sacred Scripture, doth appear; and that if the same were not put in Execution, they should thereby (so far as Man's Reason could reach) be brought into utter De<g ref="char:EOLhyphen"/>spair of the Continuance amongst them of the true Religion of Almighty God, and of her Majesties Life, and of the Safe<g ref="char:EOLhyphen"/>ty of all her Subjects, and of the Good Estate of this flourish<g ref="char:EOLhyphen"/>ing Commonweale.</p>
+            <p>For that she (the said Queen of <hi>Scots</hi>) had continually breathed the Overthrow and Suppression of the <hi>Protestant Reli<g ref="char:EOLhyphen"/>gion,</hi> being poysoned with <hi>Popery</hi> from her tender Youth, and at her Age joyning in that false termed <hi>Holy League,</hi> and had been ever since, and was then a powerful Enemy of the Truth.</p>
+            <p>For that she rested wholly upon Popish hopes, to be delivered and advanced, and was so devoted, and doted in that Profes<g ref="char:EOLhyphen"/>sion, that she would (as well for the satisfaction of others, as for the feeding her own Humour) supplant the Gospel where and whensoever she might; which Evil was so much the great<g ref="char:EOLhyphen"/>er, and the more to be avoided, for that it slayeth the Soul, and would spread it self not only over <hi>England</hi> and <hi>Scotland,</hi> but also into all Parts beyond the Sea, where the Gospel of God is maintained, the which cannot but be exceedingly weak<g ref="char:EOLhyphen"/>ned, if Defection should be in these two most violent King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>For that if she prevailed, she would rather take the Subjects of <hi>England</hi> for Slaves than for Children.</p>
+            <p>For that she had already provided them a Foster-father and a Nurse, the <hi>Pope</hi> and King of <hi>Spain;</hi> into whose hands if it should happen them to fall, what would they else look for but Ruin, Destruction, and utter Extirpation of Goods, Lands, Lives, Honours and all?</p>
+            <p>For that as she had already by her poyson'd Baits, brought to Destruction more Noble-men and their Houses, and a greater multitude of Subjects, during her being here, than she would have done if she had been in Possession of her own Country, and arm'd in the Field against them; so would she be still continually the cause of the like spoil, to the greater loss and peril of this Estate; and therefore this Realm neither could nor might endure her.</p>
+            <p>For that her Sectaries both Wrote and Printed, that the <hi>Protestants</hi> would be at their Wits end, Worlds end, if she
+<pb n="33" facs="tcp:41004:18"/>should out-live Queen <hi>Elizabeth;</hi> meaning thereby, that the end of the <hi>Protestant</hi> World was the beginning of their own; and therefore if she the said Queen of <hi>Scots,</hi> were taken away, their World would be at an end before its beginning.</p>
+            <p>For that since the sparing of her in the Fourteenth Year of Q. <hi>Elizabeths</hi> Reign, Popish Traitors and Recusants had multi<g ref="char:EOLhyphen"/>plied exceedingly: And if she were now spared again, they would grow both innumerable and invincible also: And therefore Mercy in that case would prove Cruelty against them all: <hi>Nam est quaedam crudelis misericordia;</hi> and therefore to spare her Blood, would be to spill all theirs.</p>
+            <p>And for God's Vengeance against <hi>Saul,</hi> for sparing the life of <hi>Agag,</hi> and against <hi>Ahab</hi> for sparing the life of <hi>Benhadad</hi> was most apparent, for they were both by the just Judgment of God deprived of their Kingdoms, for sparing those wicked Princes, whom God had delivered into their Hands. And those Magistrates were much conmmended, who put to Death those mischeivous and wicked Queens, <hi>Jezable</hi> and <hi>Athaliah.</hi>
+            </p>
+            <p>And now I would desire our <hi>Grumbletonians</hi> (especially they of the Clergy) to consider how extreamly they have degenera<g ref="char:EOLhyphen"/>ted from the good and laudable Principles of their Fore-fathers. They may see how urgent the Bishops, and others, in Queen <hi>Elizabeth</hi>'s days, were to have the Queen of <hi>Scots</hi> removed, (as above said) and how they encouraged the Queen to assist the <hi>Dutch</hi> against their Soveraign Lord, when he attempted them in their Religion and Laws; but now they that first opposed <hi>One</hi> that has broken the <hi>Original Contract between King and People,</hi> and done horrid things, contrary to the Laws of God, Na<g ref="char:EOLhyphen"/>ture, and the Land, yet when God, out of his merciful Pro<g ref="char:EOLhyphen"/>vidence, and singular favour to us all, has inclined him (being sensible of his own Guilt) to leave the Throne, these Very Men that first withstood him (as I said) begin to pitty him, plead for him, and extol him; and continually, both in Pulpit, (for one of them lately said there, <hi>That a parcel of Attoms could as soon make a World, as a Convention make a King</hi>) and also in Coffee-houses, mutter and grumble against the Proceedings of the great and Honorable <hi>Convention</hi> of the Kingdom, and are busy in sending out, and privately scattering their puling
+<pb n="34" facs="tcp:41004:19"/>Pamphlets, under the Titles of <hi>Mementoes, Speeches,</hi> and <hi>Let<g ref="char:EOLhyphen"/>ters,</hi> empty of ought else, but the spleen of a foolish and frustra<g ref="char:EOLhyphen"/>ted Faction. Good God! what inconstancy, folly, and madness possesses the Breasts of these Men? to what a miserable slavery would they lead us, and how fond and eager do they seem to have him rule over Us, who (like the Stork in the Fable) has, and would make it his greatest delight, to devour the best of free-born Subjects? But, I hope, that in a little time they will know the Things that belong to the Kingdom's Peace, and dutifully pray for (tho at present there is no uniformity in their Pulpits save in the Dissenters) and submit chearfully and thankfully to him whom God has made the <hi>Glorious Instrument of our Deliverance from Popery and Slavery.</hi>
+            </p>
+            <trailer>
+               <hi>God save King</hi> William <hi>and Queen</hi> Mary.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ THere is lately published the Trial of Mr. <hi>PAPILLON,</hi> by which it is manifest that the then Lord Chief Ju<g ref="char:EOLhyphen"/>stice <hi>Jefferies, had neither Learning, Law, nor good manners, but more Impudence than ten Carted Whores,</hi> (as was said of him by King <hi>CHARLES</hi> II.) in abusing all those worthy Citi<g ref="char:EOLhyphen"/>zens who voted for Mr. PAPILLON and Mr. DUBOIS, calling them a parcel of <hi>Factious, Pragmatical, Sneaking, Whining, Canting, Sniveling, Prickear'd, Cropear'd, Atheistical Fellows, Rascals,</hi> and <hi>Scoundrels,</hi> &amp;c. as in <hi>p.</hi> 29. and other places of the said Trial may be seen. Sold by <hi>Richard Janeway,</hi> and most Book<g ref="char:EOLhyphen"/>sellers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
